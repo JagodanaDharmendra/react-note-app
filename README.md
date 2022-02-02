@@ -1,3 +1,12 @@
+# React Note App (Example)
+
+### Theme 1
+![Theme01](https://user-images.githubusercontent.com/47411494/152167433-4da11622-6bf0-4440-8eb9-beea733527ec.png)
+
+### Theme 2
+![Theme02](https://user-images.githubusercontent.com/47411494/152167437-f1bc8e57-2224-4d75-8f83-2eb2a0d2ee31.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
